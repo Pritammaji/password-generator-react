@@ -14,3 +14,4 @@ Technologies Used
 •	useCallback: React hook for memoizing functions. 
 •	useRef: React hook for accessing DOM elements directly. Clipboard API: For copying the password to the clipboard.
 
+
